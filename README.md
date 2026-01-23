@@ -1,8 +1,8 @@
 # 100 Days of Code: Python
 
 ## Running the files
-- Mac OS = `python3 <filename>`
-- Windows OS = `python <filename>`
+- Mac OS = `python3 <filename>.py`
+- Windows OS = `python <filename>.py`
 
 ### Files:
 1. `Day4_task.py` - Rock, Paper, Scissors Game
