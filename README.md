@@ -7,6 +7,8 @@
 ### Files:
 1. `Day4_task.py` - Rock, Paper, Scissors Game
 2. `Day5_task.py` - Random Password Generator
-3. `Day 7 - Hangman Game` - All the files need to run the Hangman Game
+3. `Day 7 - Hangman Game` - All the files needed to run the Hangman Game
   - Run the program from the `main.py` file.
 4. `Day8_task.py` - Caesar Cipher
+5. `Day 9 - Silent Auction` - All the files needed to run the Silent Auction program
+  - Run the program from the `main.py` file. 
